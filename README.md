@@ -219,7 +219,7 @@ PwrGov-X was developed collaboratively by a four-member team. The project combin
 - **Varun K B** — [GitHub](https://github.com/VarunKB06)
 - **Rahul A R** — [GitHub](https://github.com/rahular2005)
 
-The listed team members contributed to the collaborative project. Individual responsibilities should be documented separately only where they have been confirmed.
+The listed team members contributed to the collaborative project. 
 
 ## Acknowledgements
 
